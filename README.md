@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PHP , MYSQL , LARAVEL**
 
-- 📫 How to reach me **ayedq@nhcholding.com**
+- 📫 How to reach me **aaalqhtn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
